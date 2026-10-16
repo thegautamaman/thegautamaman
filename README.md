@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0369A1,100:06B6D4&text=ARUN%20KUMAR&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Arun Kumar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:0369A1,100:06B6D4&text=AMAN%20GAUTAM&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Aman Gautam"/>
 
 <br/>
 
